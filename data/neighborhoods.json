@@ -1,0 +1,520 @@
+[
+ {
+  "zip": "33010",
+  "name": "Hialeah (East)",
+  "median_rent": 2062,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33169",
+  "name": "Miami Gardens (East)",
+  "median_rent": 2069,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33147",
+  "name": "West Little River",
+  "median_rent": 2074,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33135",
+  "name": "Little Havana",
+  "median_rent": 2080,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33012",
+  "name": "Hialeah",
+  "median_rent": 2201,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33162",
+  "name": "North Miami Beach",
+  "median_rent": 2252,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33015",
+  "name": "Country Club / Miami Lakes",
+  "median_rent": 2253,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33161",
+  "name": "North Miami",
+  "median_rent": 2267,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33144",
+  "name": "West Miami",
+  "median_rent": 2275,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33035",
+  "name": "Homestead Base area",
+  "median_rent": 2288,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33179",
+  "name": "Ojus / Ives Estates",
+  "median_rent": 2298,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33142",
+  "name": "Allapattah / Brownsville",
+  "median_rent": 2303,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33176",
+  "name": "Kendall",
+  "median_rent": 2304,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33054",
+  "name": "Opa-locka",
+  "median_rent": 2324,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33181",
+  "name": "North Bay Village / Keystone",
+  "median_rent": 2340,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33014",
+  "name": "Miami Lakes (East)",
+  "median_rent": 2362,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33126",
+  "name": "Flagami / Blue Lagoon",
+  "median_rent": 2365,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33193",
+  "name": "Kendall West (The Crossings)",
+  "median_rent": 2374,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33138",
+  "name": "Upper East Side / Miami Shores",
+  "median_rent": 2376,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33125",
+  "name": "Little Havana / Grapeland Heights",
+  "median_rent": 2380,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33172",
+  "name": "Doral (South) / Sweetwater",
+  "median_rent": 2385,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33016",
+  "name": "Hialeah Gardens",
+  "median_rent": 2399,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33141",
+  "name": "North Beach",
+  "median_rent": 2418,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33150",
+  "name": "Little Haiti / El Portal",
+  "median_rent": 2433,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33034",
+  "name": "Florida City",
+  "median_rent": 2458,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33183",
+  "name": "Kendall Lakes",
+  "median_rent": 2460,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33030",
+  "name": "Homestead",
+  "median_rent": 2475,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33170",
+  "name": "Miami",
+  "median_rent": 2505,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33013",
+  "name": "Hialeah (South)",
+  "median_rent": 2524,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33186",
+  "name": "The Hammocks / Kendall West",
+  "median_rent": 2539,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33173",
+  "name": "Kendall (Sunset)",
+  "median_rent": 2560,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33033",
+  "name": "Homestead (East)",
+  "median_rent": 2581,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33136",
+  "name": "Overtown / Health District",
+  "median_rent": 2589,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33157",
+  "name": "Palmetto Bay / Perrine",
+  "median_rent": 2613,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33196",
+  "name": "Country Walk / West Kendall",
+  "median_rent": 2614,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33174",
+  "name": "Sweetwater / FIU area",
+  "median_rent": 2654,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33056",
+  "name": "Miami Gardens",
+  "median_rent": 2660,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33032",
+  "name": "Princeton / Naranja",
+  "median_rent": 2664,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33184",
+  "name": "Fontainebleau / Tamiami",
+  "median_rent": 2699,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33122",
+  "name": "Doral (West)",
+  "median_rent": 2705,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33168",
+  "name": "Biscayne Gardens",
+  "median_rent": 2712,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33155",
+  "name": "Westchester / Bird Road",
+  "median_rent": 2716,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33143",
+  "name": "South Miami",
+  "median_rent": 2736,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33156",
+  "name": "Pinecrest",
+  "median_rent": 2759,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33167",
+  "name": "North Miami (West)",
+  "median_rent": 2764,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33128",
+  "name": "Downtown Miami (West)",
+  "median_rent": 2799,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33189",
+  "name": "Cutler Bay",
+  "median_rent": 2803,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33177",
+  "name": "South Miami Heights",
+  "median_rent": 2819,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33139",
+  "name": "South Beach",
+  "median_rent": 2835,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33166",
+  "name": "Miami Springs / Medley",
+  "median_rent": 2850,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33190",
+  "name": "Cutler Bay (South)",
+  "median_rent": 2953,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33127",
+  "name": "Wynwood / Little Haiti",
+  "median_rent": 2956,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33145",
+  "name": "Shenandoah / Silver Bluff",
+  "median_rent": 2962,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33182",
+  "name": "Tamiami West",
+  "median_rent": 2980,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33178",
+  "name": "Doral",
+  "median_rent": 2986,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33134",
+  "name": "Coral Gables",
+  "median_rent": 2987,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33055",
+  "name": "Miami Gardens (West)",
+  "median_rent": 3037,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33160",
+  "name": "Sunny Isles / Aventura",
+  "median_rent": 3063,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33175",
+  "name": "Tamiami / Westwood Lakes",
+  "median_rent": 3071,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33018",
+  "name": "Hialeah (West)",
+  "median_rent": 3094,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33180",
+  "name": "Aventura",
+  "median_rent": 3175,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33165",
+  "name": "Westchester / Olympia Heights",
+  "median_rent": 3248,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33130",
+  "name": "Brickell West / Little Havana East",
+  "median_rent": 3312,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33185",
+  "name": "West Kendall (Bird Road)",
+  "median_rent": 3465,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33132",
+  "name": "Downtown Miami",
+  "median_rent": 3511,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33137",
+  "name": "Edgewater / Design District",
+  "median_rent": 3572,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33129",
+  "name": "The Roads / Brickell South",
+  "median_rent": 3589,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33133",
+  "name": "Coconut Grove",
+  "median_rent": 3621,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33146",
+  "name": "Coral Gables (UM area)",
+  "median_rent": 3635,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33140",
+  "name": "Mid-Beach",
+  "median_rent": 3675,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33194",
+  "name": "West Kendall (Far West)",
+  "median_rent": 3789,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33131",
+  "name": "Brickell",
+  "median_rent": 3831,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33154",
+  "name": "Bal Harbour / Surfside",
+  "median_rent": 4835,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ },
+ {
+  "zip": "33149",
+  "name": "Key Biscayne",
+  "median_rent": 7162,
+  "month": "2026-08",
+  "source": "Zillow Observed Rent Index (ZORI), all homes, smoothed"
+ }
+]

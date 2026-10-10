@@ -1,0 +1,552 @@
+[
+ {
+  "soc": "11-3031",
+  "title": "Financial Managers",
+  "median_annual": 164230,
+  "mean_annual": 185020,
+  "employment": 14540,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "23-1011",
+  "title": "Lawyers",
+  "median_annual": 160320,
+  "mean_annual": 173960,
+  "employment": 23270,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "11-2021",
+  "title": "Marketing Managers",
+  "median_annual": 135870,
+  "mean_annual": 155840,
+  "employment": 7530,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "29-1051",
+  "title": "Pharmacists",
+  "median_annual": 135210,
+  "mean_annual": 128730,
+  "employment": 6150,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-1252",
+  "title": "Software Developers",
+  "median_annual": 132650,
+  "mean_annual": 144730,
+  "employment": 18900,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "29-1171",
+  "title": "Nurse Practitioners",
+  "median_annual": 131340,
+  "mean_annual": 136150,
+  "employment": 5810,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "17-2011",
+  "title": "Aerospace Engineers",
+  "median_annual": 131210,
+  "mean_annual": 135650,
+  "employment": 460,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "11-9111",
+  "title": "Medical and Health Services Managers",
+  "median_annual": 128770,
+  "mean_annual": 142100,
+  "employment": 12290,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-2051",
+  "title": "Data Scientists",
+  "median_annual": 127450,
+  "mean_annual": 123250,
+  "employment": 3040,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-2052",
+  "title": "Personal Financial Advisors",
+  "median_annual": 125670,
+  "mean_annual": 177500,
+  "employment": 8390,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-1212",
+  "title": "Information Security Analysts",
+  "median_annual": 125310,
+  "mean_annual": 123120,
+  "employment": 3300,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-2051",
+  "title": "Financial and Investment Analysts",
+  "median_annual": 105160,
+  "mean_annual": 117950,
+  "employment": 6400,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "11-3071",
+  "title": "Transportation, Storage, and Distribution Managers",
+  "median_annual": 104010,
+  "mean_annual": 115410,
+  "employment": null,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-1211",
+  "title": "Computer Systems Analysts",
+  "median_annual": 103650,
+  "mean_annual": 106670,
+  "employment": 9000,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "17-2071",
+  "title": "Electrical Engineers",
+  "median_annual": 102800,
+  "mean_annual": 109110,
+  "employment": 2050,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "29-1123",
+  "title": "Physical Therapists",
+  "median_annual": 100870,
+  "mean_annual": 96160,
+  "employment": 4950,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-1253",
+  "title": "Software Quality Assurance Analysts and Testers",
+  "median_annual": 100050,
+  "mean_annual": 101310,
+  "employment": 1960,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "17-2141",
+  "title": "Mechanical Engineers",
+  "median_annual": 99660,
+  "mean_annual": 105040,
+  "employment": 2000,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "17-2081",
+  "title": "Environmental Engineers",
+  "median_annual": 99600,
+  "mean_annual": 108490,
+  "employment": 240,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-1082",
+  "title": "Project Management Specialists",
+  "median_annual": 98720,
+  "mean_annual": 104620,
+  "employment": 19340,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "17-1011",
+  "title": "Architects, Except Landscape and Naval",
+  "median_annual": 97500,
+  "mean_annual": 103700,
+  "employment": 1810,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-1244",
+  "title": "Network and Computer Systems Administrators",
+  "median_annual": 97180,
+  "mean_annual": 101140,
+  "employment": 6340,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-1111",
+  "title": "Management Analysts",
+  "median_annual": 94290,
+  "mean_annual": 106550,
+  "employment": 16540,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "29-1141",
+  "title": "Registered Nurses",
+  "median_annual": 91380,
+  "mean_annual": 94990,
+  "employment": 61670,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "27-2012",
+  "title": "Producers and Directors",
+  "median_annual": 87980,
+  "mean_annual": 104850,
+  "employment": 3020,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "27-3042",
+  "title": "Technical Writers",
+  "median_annual": 84750,
+  "mean_annual": 94500,
+  "employment": 560,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "17-2051",
+  "title": "Civil Engineers",
+  "median_annual": 83750,
+  "mean_annual": 99450,
+  "employment": 6850,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "11-9051",
+  "title": "Food Service Managers",
+  "median_annual": 81170,
+  "mean_annual": 86050,
+  "employment": 4350,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-2011",
+  "title": "Accountants and Auditors",
+  "median_annual": 80920,
+  "mean_annual": 90230,
+  "employment": 30950,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-1041",
+  "title": "Compliance Officers",
+  "median_annual": 79770,
+  "mean_annual": 85890,
+  "employment": 10530,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "29-1031",
+  "title": "Dietitians and Nutritionists",
+  "median_annual": 79750,
+  "mean_annual": 78660,
+  "employment": 1190,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-1161",
+  "title": "Market Research Analysts and Marketing Specialists",
+  "median_annual": 78990,
+  "mean_annual": 82060,
+  "employment": null,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "29-2034",
+  "title": "Radiologic Technologists and Technicians",
+  "median_annual": 78890,
+  "mean_annual": 77840,
+  "employment": 4630,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-1255",
+  "title": "Web and Digital Interface Designers",
+  "median_annual": 77730,
+  "mean_annual": 90100,
+  "employment": 1250,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "11-9081",
+  "title": "Lodging Managers",
+  "median_annual": 76860,
+  "mean_annual": 92170,
+  "employment": 1160,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-2031",
+  "title": "Operations Research Analysts",
+  "median_annual": 76400,
+  "mean_annual": 81350,
+  "employment": 1910,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-1151",
+  "title": "Training and Development Specialists",
+  "median_annual": 71990,
+  "mean_annual": 75710,
+  "employment": null,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-2072",
+  "title": "Loan Officers",
+  "median_annual": 71510,
+  "mean_annual": 83450,
+  "employment": 4190,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-1081",
+  "title": "Logisticians",
+  "median_annual": 69480,
+  "mean_annual": 74590,
+  "employment": 4500,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "19-2041",
+  "title": "Environmental Scientists and Specialists, Including Health",
+  "median_annual": 68920,
+  "mean_annual": 76070,
+  "employment": 1080,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-1071",
+  "title": "Human Resources Specialists",
+  "median_annual": 67580,
+  "mean_annual": 75160,
+  "employment": 18080,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "27-3043",
+  "title": "Writers and Authors",
+  "median_annual": 66470,
+  "mean_annual": 69200,
+  "employment": 1270,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "27-3031",
+  "title": "Public Relations Specialists",
+  "median_annual": 64600,
+  "mean_annual": 72680,
+  "employment": 5460,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "41-3031",
+  "title": "Securities, Commodities, and Financial Services Sales Agents",
+  "median_annual": 63790,
+  "mean_annual": 93900,
+  "employment": 14190,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "23-2011",
+  "title": "Paralegals and Legal Assistants",
+  "median_annual": 62090,
+  "mean_annual": 66130,
+  "employment": 17820,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "41-3091",
+  "title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+  "median_annual": 62090,
+  "mean_annual": 75070,
+  "employment": 30300,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "27-1024",
+  "title": "Graphic Designers",
+  "median_annual": 61870,
+  "mean_annual": 71980,
+  "employment": 3950,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "13-1121",
+  "title": "Meeting, Convention, and Event Planners",
+  "median_annual": 61260,
+  "mean_annual": 64730,
+  "employment": 3240,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "15-1232",
+  "title": "Computer User Support Specialists",
+  "median_annual": 60500,
+  "mean_annual": 64380,
+  "employment": 13270,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "25-2031",
+  "title": "Secondary School Teachers, Except Special and Career/Technical Education",
+  "median_annual": 60410,
+  "mean_annual": 62190,
+  "employment": 12010,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "21-1021",
+  "title": "Child, Family, and School Social Workers",
+  "median_annual": 59710,
+  "mean_annual": 58830,
+  "employment": 4460,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "25-2021",
+  "title": "Elementary School Teachers, Except Special Education",
+  "median_annual": 58300,
+  "mean_annual": 59550,
+  "employment": 19910,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "21-1018",
+  "title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors",
+  "median_annual": 57290,
+  "mean_annual": 60290,
+  "employment": 10240,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "41-9022",
+  "title": "Real Estate Sales Agents",
+  "median_annual": 47080,
+  "mean_annual": 84400,
+  "employment": 9160,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ },
+ {
+  "soc": "43-4051",
+  "title": "Customer Service Representatives",
+  "median_annual": 39560,
+  "mean_annual": 43680,
+  "employment": 63440,
+  "year": 2025,
+  "area": "Miami-Fort Lauderdale-West Palm Beach, FL MSA",
+  "source": "BLS OEWS"
+ }
+]
